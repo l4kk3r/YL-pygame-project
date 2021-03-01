@@ -1,3 +1,4 @@
+# Данный скрипт создан для парсинга картинок с сайта littlealchemy
 from selenium import webdriver
 
 
